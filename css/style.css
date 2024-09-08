@@ -19,10 +19,6 @@ body{
     background-size: cover;
     background-position: bottom;
     min-width: 100%;
-    /* QUITAR ESTE BORDE  */
-    border: 1px #000 solid; 
-    /* QUITAR ESTE BORDE */
-
 }
 
 /*Inicio para la barra de navegación*/
